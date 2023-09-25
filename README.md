@@ -1,6 +1,3 @@
 # ArmSimulator
 ---
-<video controls width="560" height="315">
-  <source src="/Video/Demo.mkv" type="video/mkv">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_HERE" frameborder="0" allowfullscreen></iframe>
