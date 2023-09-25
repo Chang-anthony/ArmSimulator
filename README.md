@@ -9,7 +9,7 @@
 - Trajectory Planning And Path Planning
 - User Visualization and Interface Design
 ---
-[Demo](https://youtu.be/OXBUvXwi13k)
+[![Demo](https://github.com/Chang-anthony/ArmSimulator/blob/main/Video/Demo.png)](https://youtu.be/OXBUvXwi13k)
 ---
 ## Reference
 <Introduction to Robotics Third Edition, John J. Craig>
