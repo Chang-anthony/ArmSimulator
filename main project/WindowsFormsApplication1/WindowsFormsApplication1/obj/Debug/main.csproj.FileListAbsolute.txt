@@ -1,0 +1,45 @@
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DotLiquid.dll
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DotLiquid.xml
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\main.csproj.AssemblyReference.cache
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GUI.resources
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\main.csproj.GenerateResource.cache
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\main.csproj.CopyComplete
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\anthony\Desktop\visual studio 2019\main project\20210720 example\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DotLiquid.dll
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DotLiquid.xml
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\main.csproj.AssemblyReference.cache
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GUI.resources
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\main.csproj.GenerateResource.cache
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\main.csproj.CopyComplete
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Anthony\Desktop\實驗室\2021 0910\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DotLiquid.dll
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DotLiquid.xml
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\main.csproj.AssemblyReference.cache
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GUI.resources
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\main.csproj.GenerateResource.cache
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\main.csproj.CopyComplete
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\anthony\Desktop\visual studio 2019\main project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
